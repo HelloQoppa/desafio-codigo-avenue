@@ -1,0 +1,15 @@
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\obj\Debug\net8.0\hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\obj\Debug\net8.0\hospedagem.AssemblyInfoInputs.cache
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\obj\Debug\net8.0\hospedagem.AssemblyInfo.cs
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\obj\Debug\net8.0\hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\obj\Debug\net8.0\hospedagem.sourcelink.json
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\bin\Debug\net8.0\hospedagem.exe
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\bin\Debug\net8.0\hospedagem.deps.json
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\bin\Debug\net8.0\hospedagem.runtimeconfig.json
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\bin\Debug\net8.0\hospedagem.dll
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\bin\Debug\net8.0\hospedagem.pdb
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\obj\Debug\net8.0\hospedagem.dll
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\obj\Debug\net8.0\refint\hospedagem.dll
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\obj\Debug\net8.0\hospedagem.pdb
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\obj\Debug\net8.0\hospedagem.genruntimeconfig.cache
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-hospedagem\hospedagem\obj\Debug\net8.0\ref\hospedagem.dll
