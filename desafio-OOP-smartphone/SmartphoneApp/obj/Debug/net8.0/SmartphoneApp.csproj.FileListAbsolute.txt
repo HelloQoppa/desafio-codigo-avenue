@@ -1,0 +1,15 @@
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\obj\Debug\net8.0\SmartphoneApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\obj\Debug\net8.0\SmartphoneApp.AssemblyInfoInputs.cache
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\obj\Debug\net8.0\SmartphoneApp.AssemblyInfo.cs
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\obj\Debug\net8.0\SmartphoneApp.csproj.CoreCompileInputs.cache
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\obj\Debug\net8.0\SmartphoneApp.sourcelink.json
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\bin\Debug\net8.0\SmartphoneApp.exe
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\bin\Debug\net8.0\SmartphoneApp.deps.json
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\bin\Debug\net8.0\SmartphoneApp.runtimeconfig.json
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\bin\Debug\net8.0\SmartphoneApp.dll
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\bin\Debug\net8.0\SmartphoneApp.pdb
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\obj\Debug\net8.0\SmartphoneApp.dll
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\obj\Debug\net8.0\refint\SmartphoneApp.dll
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\obj\Debug\net8.0\SmartphoneApp.pdb
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\obj\Debug\net8.0\SmartphoneApp.genruntimeconfig.cache
+C:\Users\luiiz\OneDrive\Área de Trabalho\desafio-de-projeto-avanade\desafio-OOP-smartphone\SmartphoneApp\obj\Debug\net8.0\ref\SmartphoneApp.dll

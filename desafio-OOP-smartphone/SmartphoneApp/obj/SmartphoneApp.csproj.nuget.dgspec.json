@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luiiz\\OneDrive\\Área de Trabalho\\desafio-de-projeto-avanade\\desafio-estacionamento\\desafio-estacionamento.csproj": {}
+    "C:\\Users\\luiiz\\OneDrive\\Área de Trabalho\\desafio-de-projeto-avanade\\desafio-OOP-smartphone\\SmartphoneApp\\SmartphoneApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luiiz\\OneDrive\\Área de Trabalho\\desafio-de-projeto-avanade\\desafio-estacionamento\\desafio-estacionamento.csproj": {
+    "C:\\Users\\luiiz\\OneDrive\\Área de Trabalho\\desafio-de-projeto-avanade\\desafio-OOP-smartphone\\SmartphoneApp\\SmartphoneApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiiz\\OneDrive\\Área de Trabalho\\desafio-de-projeto-avanade\\desafio-estacionamento\\desafio-estacionamento.csproj",
-        "projectName": "desafio-estacionamento",
-        "projectPath": "C:\\Users\\luiiz\\OneDrive\\Área de Trabalho\\desafio-de-projeto-avanade\\desafio-estacionamento\\desafio-estacionamento.csproj",
+        "projectUniqueName": "C:\\Users\\luiiz\\OneDrive\\Área de Trabalho\\desafio-de-projeto-avanade\\desafio-OOP-smartphone\\SmartphoneApp\\SmartphoneApp.csproj",
+        "projectName": "SmartphoneApp",
+        "projectPath": "C:\\Users\\luiiz\\OneDrive\\Área de Trabalho\\desafio-de-projeto-avanade\\desafio-OOP-smartphone\\SmartphoneApp\\SmartphoneApp.csproj",
         "packagesPath": "C:\\Users\\luiiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiiz\\OneDrive\\Área de Trabalho\\desafio-de-projeto-avanade\\desafio-estacionamento\\obj\\",
+        "outputPath": "C:\\Users\\luiiz\\OneDrive\\Área de Trabalho\\desafio-de-projeto-avanade\\desafio-OOP-smartphone\\SmartphoneApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luiiz\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("desafio-estacionamento")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SmartphoneApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e145665cc853acdbf02746265a28507bb2afba87")]
-[assembly: System.Reflection.AssemblyProductAttribute("desafio-estacionamento")]
-[assembly: System.Reflection.AssemblyTitleAttribute("desafio-estacionamento")]
+[assembly: System.Reflection.AssemblyProductAttribute("SmartphoneApp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SmartphoneApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
